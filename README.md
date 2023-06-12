@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to My Page</h1>
+  <img src="https://github.com/Denta-ai/Denta-ai/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ###
