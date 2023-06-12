@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 🤝 I’m looking for help with [case-study-cpp](https://github.com/Denta-ai/Case-Study-Cpp)
+- 👯 I’m looking to collaborate on [case-study-cpp](https://github.com/Denta-ai/Case-Study-Cpp)
 
 - 📫 How to reach me **dentacoy@gmail.com**
 
