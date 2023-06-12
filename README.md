@@ -17,9 +17,7 @@
 <br clear="both">
 <br>
 
-- 🔭 I’m currently working on [case-study-cpp](https://github.com/Denta-ai/Case-Study-Cpp)
-
-<img align="right" height="150" src="https://i.pinimg.com/564x/82/42/31/824231fd52f5d263287edf72c2aae607.jpg"  />
+- 🔭 I’m currently working on [case-study-cpp](https://github.com/Denta-ai/Case-Study-Cpp)<img align="right" height="150" src="https://i.pinimg.com/564x/82/42/31/824231fd52f5d263287edf72c2aae607.jpg"  />
 
 - 🌱 I’m currently learning **C++**
 
