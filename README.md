@@ -41,7 +41,7 @@
   <a href="https://instagram.com/dnt.pf" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
      alt="dnt.pf" height="30" width="40" /></a>
-  <a href="https://discord.gg/946745150921658389" target="blank">
+  <a href="https://discordapp.com/users/946745150921658389" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
      alt="946745150921658389" height="30" width="40" /></a>
 </div>
