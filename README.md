@@ -10,6 +10,7 @@
 <div align="center">
   <p>Hi 👋, I'm Denta</p>
   <p>Undergraduate student of IE. I'm still learning!</p>
+  <p>I would love getting any review or advice on my code!!</p>
 </div>
 
 ###
