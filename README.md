@@ -71,9 +71,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denta-ai&show_icons=true&locale=en&theme=dark&title_color=ffffff&text_color=ffffff" height="180"      alt="denta-ai" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denta-ai&show_icons=true&locale=en&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff" height="180px" alt="denta-ai" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denta-ai&theme=dark&title_color=ffffff&text_color=ffffff" alt="denta-ai" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=denta-ai&show_icons=true&locale=en&theme=radical" height="180px" alt="denta-ai" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=denta-ai&show_icons=true&locale=en&layout=compact&theme=radical" height="180px" alt="denta-ai" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denta-ai&theme=radical" alt="denta-ai" />
 </div>
 
 ###
