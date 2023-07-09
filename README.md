@@ -15,20 +15,7 @@
 
 ###
 
-<br clear="both">
 <br>
-
-- 🔭 I’m currently working on [case-study-cpp](https://github.com/Denta-ai/Case-Study-Cpp)
-
-- 🌱 I’m currently learning **C++**
-
-- 👯 I’m looking to collaborate on [case-study-cpp](https://github.com/Denta-ai/Case-Study-Cpp)
-
-- 📫 How to reach me **dentacoy@gmail.com**
-
-- ⚡ Fun fact **I rarely touch grass ahaha**
-
-###
 
 <h3 align="left">Connect with me:</h3>
 
