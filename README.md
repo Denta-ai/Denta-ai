@@ -3,9 +3,9 @@
 <hr>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c9/49/8a/c9498ad28fa48e99d3f6dd1e8e7341c5.gif" height="300px" "/>
-  <img src="https://i.pinimg.com/originals/1b/34/df/1b34dfc0a9bf5563e0f960a24b6862db.gif" height="380px" />
-  <img src="https://i.pinimg.com/originals/64/4a/43/644a43b3ac1761173c3e616555837358.gif" height="300px" />
+  <img src="https://i.pinimg.com/originals/c9/49/8a/c9498ad28fa48e99d3f6dd1e8e7341c5.gif" height="200px" "/>
+  <img src="https://i.pinimg.com/originals/1b/34/df/1b34dfc0a9bf5563e0f960a24b6862db.gif" height="200px" />
+  <img src="https://i.pinimg.com/originals/64/4a/43/644a43b3ac1761173c3e616555837358.gif" height="200px" />
 </div>
 <hr>
 <br>
